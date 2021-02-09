@@ -1,5 +1,5 @@
 # My-Library
-An Android App for Book readers to maintain records of their books.
+An Android App for Book readers to maintain record of their books.
 
 ## Screenshots
 <img src = "https://user-images.githubusercontent.com/55586537/90976494-41fb6300-e55b-11ea-814d-91df67b9d189.png" width = "275">          <img src = "https://user-images.githubusercontent.com/55586537/90976498-43c52680-e55b-11ea-9d74-faec11d9dca5.png" width = "275">          <img src = "https://user-images.githubusercontent.com/55586537/90976499-445dbd00-e55b-11ea-9aa6-72e4efcfe193.png" width = "275">          
